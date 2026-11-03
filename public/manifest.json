@@ -1,0 +1,18 @@
+{
+  "name": "Tea Counter - FAME IT NETWORKS",
+  "short_name": "Tea Counter",
+  "description": "Office Tea Entry & Tracking System for FAME IT NETWORKS",
+  "start_url": "/counter",
+  "display": "standalone",
+  "background_color": "#102d20",
+  "theme_color": "#102d20",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
+

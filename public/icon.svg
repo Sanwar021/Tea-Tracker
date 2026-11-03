@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" fill="none">
+  <rect width="512" height="512" rx="128" fill="#102d20"/>
+  <!-- Steam -->
+  <path d="M190 140 C 180 110, 210 90, 200 60" stroke="#a7f3d0" stroke-width="16" stroke-linecap="round" fill="none"/>
+  <path d="M256 130 C 246 100, 276 80, 266 50" stroke="#a7f3d0" stroke-width="16" stroke-linecap="round" fill="none"/>
+  <path d="M322 140 C 312 110, 342 90, 332 60" stroke="#a7f3d0" stroke-width="16" stroke-linecap="round" fill="none"/>
+  <!-- Cup body -->
+  <path d="M120 180 L 140 340 C 145 380, 180 410, 220 410 L 292 410 C 332 410, 367 380, 372 340 L 392 180 Z" fill="#fdf6ec"/>
+  <!-- Cup Handle -->
+  <path d="M370 210 C 430 210, 430 310, 360 310" stroke="#fdf6ec" stroke-width="24" stroke-linecap="round" fill="none"/>
+  <!-- Text FIN -->
+  <text x="256" y="300" font-family="sans-serif" font-weight="900" font-size="44" fill="#102d20" text-anchor="middle">FIN</text>
+  <!-- Saucer -->
+  <rect x="100" y="430" width="312" height="24" rx="12" fill="#d4a847"/>
+</svg>
